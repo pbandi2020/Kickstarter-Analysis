@@ -6,8 +6,8 @@ This document outlines the project analysis and how data can be leveraged to mak
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-* Deliverable 1 Analysis - Louis would like to know what our current campaign outcome is based on the actual campaign launch date. She wants to visualize the campaign outcome by Launch Date / for a period of time. Also, she is looking for the ability to filter the data by category and year. Below is the snapshot of the data table and the line graph showing the visual view of the same data. 
-* Let’s compare a single data point to help understand what is inferred from the data below. In the month of may starting 2009 to 2015 there were multiple campaigns launched over a period of this time. Even though the chart below shows May as the most successful month for the category Theater. This is data across multiple years. When you add the Year dimension in the filter criteria the below model would show a different result set. So, the result of what you infer and interpret would depend on what you are trying to learn from the below model. 
+* Louis would like to know what our current campaign outcome is based on the actual campaign launch date. She wants to visualize the campaign outcome by Launch Date / for a period of time. Also, she is looking for the ability to filter the data by category and year. Below is the snapshot of the data table and the line graph showing the visual view of the same data. 
+* Let’s compare a single data point to help understand what is inferred from the graph and data table below. Even though the chart below shows May as the most successful month for the category Theater, the outcome is measured across multiple years. When you add the Year dimension in the filter criteria the graph may look different and May not be the most successful month in the result set. So, the result of what you infer and interpret would depend on what you are trying to learn from the below model. The grain of the data is what helps slice and dice the result set to view various models of the same data.
 
 ![OutcomesBasedOnLaunchDateANDCategory](/Resources/Theater_Outcome_Vs_Launch.png)
 
