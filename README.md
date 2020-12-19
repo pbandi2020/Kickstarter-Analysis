@@ -13,9 +13,10 @@ This document outlines the project analysis and how data can be leveraged to mak
 
 ![GraphVsDataviewAnalysis](/Resources/LaunchDate_Analysis.png)
 
-
-
 ### Analysis of Outcomes Based on Goals
+* In this model Louis would like to know what our original goal for the campaign was and what percentage of the outcome met our goal. Below is the snapshot of the data table and the line graph showing the visual view of the same data. 
+
+![OutcomesBasedOnLaunchDateANDCategory](/Resources/Outcomes_Vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
