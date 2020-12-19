@@ -25,8 +25,8 @@ This document outlines the project analysis and how data can be leveraged to mak
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--- Total campaign responses are 1369 and 24 are still in progress/Live which can fall into one of the outcome categories of Success, Failed or Cancelled for the Theater category
--- The overall campaign outcome across all categories are 4114 with only 50 waiting on outcome. Over 25% of the campaign are for the Theater category and 50% outstanding outcome is in the theater category. 
+  - Total campaign responses are 1369 and 24 are still in progress/Live which can fall into one of the outcome categories of Success, Failed or Cancelled for the Theater category
+  - The overall campaign outcome across all categories are 4114 with only 50 waiting on outcome. Over 25% of the campaign are for the Theater category and 50% outstanding outcome is in the theater category. 
 
 
 - What can you conclude about the Outcomes based on Goals?
