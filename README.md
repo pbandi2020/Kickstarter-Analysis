@@ -1,6 +1,8 @@
 # Kickstarter Data Analysis
 ## Overview of Project
-This document outlines the project analysis and how data can be leveraged to make business decisions and how data can be utilized to Visualize the Current, Past and Future state of the business operations. In this experience we focused on the following 2 outcomes.
+This document outlines the project analysis and how data can be leveraged to make business decisions and how data can be utilized to Visualize the Current, Past and Future state of the business operations. In this experience we focus on following dimensions and facts.
+  * Measure the Outcome/Results based on Campaign Launch Date
+  * Measure the campaign goal based on the campaign outcome
 
 ### Purpose
 
