@@ -41,4 +41,4 @@ This document outlines the project analysis and how data can be leveraged to mak
   - We can view the outcome by Category & Subcategory
   - We can view the outcomes by country 
   - We can view the outcomes by Backers Count
-  - Goal exceeded the actual plesged
+  - Goal exceeded the actual pledged
