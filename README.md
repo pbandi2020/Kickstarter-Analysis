@@ -30,7 +30,7 @@ This document outlines the project analysis and how data can be leveraged to mak
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  - Total campaign responses are 1369 and 24 are still in progress/Live which can fall into one of the outcome categories of Success, Failed or Cancelled for the Theater category
+  - Total campaign responses are 1369 and 24 are still in progress/live which can fall into one of the outcome categories of Success, Failed or Cancelled for the Theater category
   - The overall campaign outcome across all categories are 4114 with only 50 waiting on outcome. Over 25% of the campaign are for the Theater category and 50% outstanding outcome is in the theater category. 
 
 
@@ -38,7 +38,7 @@ This document outlines the project analysis and how data can be leveraged to mak
   - Every Campaign conducted had a positive or negative outcome with highest success rate in the goal range of $1000 to $4999. For future campaigns, the business goals can realign to this range to drive more dollars and meet the campaign goal.
 
 - What are some limitations of this dataset?
-  -
+  - Measuring the campaign outcome without duration as a dimension is a disadvange. As a results, outcome has to be compared at a given point in time to understand the retention and success rate. In our analysis we are measuring over a long period of time which really does not provide accurate measure to validate success rate.
 
 - What are some other possible tables and/or graphs that we could create?
   - We can view the outcome by Category & Subcategory
