@@ -21,8 +21,11 @@ This document outlines the project analysis and how data can be leveraged to mak
 ![OutcomesBasedOnLaunchDateANDCategory](/Resources/Outcomes_Vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-* Deliverable 1 – No major challenge as this was an exercise that was done in the class work assignment other than the fact, I had to play around a little with the chart attributes.
-* Deliverable 2 – Manual entry of range and the formula setup was the challenge. After completing one set of formula all others were more copy and paste. No major challenges. The video on CountIF function was helpful was we did not look at this formula in class. Since I has programming experience I was able to get the multi condition where class and knew how to calculate the percentage was able to complete, For anyone with no SQL experience might have had trouble with the CountIF function in this deliverable.
+* The orginal data table did not have the data columns needed to derive the resultset and hence had to convert the Launch Date, Category & Subcategory columns. 
+* CountIF function, had to research on how to write multiple condition
+* Readme file formating commands had to google to find out formating rules
+* Picture upload to GitHub was challenging.
+* Was able to overcome the challanges using google and Slack comments.
 
 ## Results
 
