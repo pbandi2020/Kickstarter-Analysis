@@ -10,7 +10,7 @@ This document outlines the project analysis and how data can be leveraged to mak
 * Let’s compare a single data point to help understand what is inferred from the data below. In the month of may starting 2009 to 2015 there were multiple campaigns launched over a period of this time. Even though the chart below shows May as the most successful month for the category Theater. This is data across multiple years. When you add the Year dimension in the filter criteria the below model would show a different result set. So, the result of what you infer and interpret would depend on what you are trying to learn from the below model. 
 ![OutcomesBasedOnLaunchDateANDCategory](/Resources/Theater_Outcome_Vs_Launch.png)
 
-![GraphVsDataviewAnalysis](/Resources/LaunchDateOutcomeAnalysis.png)
+![GraphVsDataviewAnalysis](/Resources/LaunchDate_Analysis.png)
 
 
 
