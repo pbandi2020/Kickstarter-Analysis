@@ -6,7 +6,7 @@ This document outlines the project analysis and how data can be leveraged to mak
 
 ## Analysis and Challenges
 * Deliverable 1 Analysis - Louis would like to know what our current campaign outcome is based on the actual campaign launch date. She wants to visualize the campaign outcome by Launch Date / for a period of time. Also, she is looking for the ability to filter the data by category and year. Below is the snapshot of the data table and the line graph showing the visual view of the same data. 
-![OutcomesBasedOnLaunchDateANDCategory](/resources/LaunchDate_Analysis.png)\
+![OutcomesBasedOnLaunchDateANDCategory](/Resources/LaunchDate_Analysis.png)\
 
 
 ### Analysis of Outcomes Based on Launch Date
